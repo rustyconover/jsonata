@@ -33,6 +33,7 @@ The following are known implementations of JSONata in addition to the primary im
 |Python|https://github.com/rayokota/jsonata-python|Native port of reference|2.1.0|
 |Rust|https://github.com/johanventer/jsonata-rust|Implementation work in progress| |
 |Rust|https://github.com/Stedi/jsonata-rs|Actively-developed fork of jsonata-rust| |
+|SQL|https://query.farm/duckdb_extension_jsonata.html|DuckDB Extension for jsonata using JSONata for C++ | |
 
 ## Find out more
 
